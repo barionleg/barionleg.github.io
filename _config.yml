@@ -35,9 +35,9 @@ titles_from_headings:
 
 highlighter: rouge
 markdown: kramdown
-kramdown:
+kramdown: true
   math_engine: katex
   input: GFM
   auto_ids: true
-  hard_wrap: false
+  hard_wrap: true
   syntax_highlighter: rouge
